@@ -1,0 +1,3 @@
+[submodule "Omega-External"]
+	path = Omega-External
+	url = https://github.com/LDelaforet/Omega-External
